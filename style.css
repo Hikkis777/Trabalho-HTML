@@ -1,0 +1,9 @@
+.done-text {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .task-time {
+    font-size: 0.8em;
+    color: #888;
+  }
