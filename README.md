@@ -35,3 +35,7 @@ O público-alvo desse projeto pode ser composto por:
 ## IDE Utilizada 
 
 Visual Studio Code
+
+## Modelo do FIGMA 
+
+![Design da Interface](assets/figma.png)
